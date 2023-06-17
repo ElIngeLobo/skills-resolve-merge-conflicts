@@ -1,3 +1,2 @@
-# References
+como es posible este suceso
 
-* octocat 1 😈
